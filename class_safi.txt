@@ -1,0 +1,195 @@
+---------------------------------------------------------------
+Sept 28, 2020
+---------------------------------------------------------------
+# Learn how to design a Test plan
+# Learn how to write Test Design/ test data
+# Learn how to write Test Cases
+===============================================================
+
+Questions from last sessions:
+-------------------------------
+Preparing Test Data and Test planning Technique:
+
+# Boundary Value analysis Technique (range based testing)
+1. This is a technique where test data are prepared inside and outside of boundary partition of a test obejct
+2. Positive boundary and Negative Boundary makes Boundary positive value and negative value
+3. One test per testing object -- per test data
+4. if you have multiple sets of data, then your number of tests will be increasing accrodingly
+example:
+Phone number: Phone number is 10 digits.
+social security number: 9 digits.
+Password should contain atleast one upper case letter and the length is at least 8 characters.
+
+
+# Phone number is 10 digits.( digits are 0 to 9)
+--------------------------------------------------------------------------------------------
+POSITIVE TEST WITH 10 DIGITS expectation: pass with 10 digits -- should accept 5715356126
+NEG TEST WITH 9 DIGITS expectation: fail with 9 digits --- shouldn't accept 715356126
+NEG TEST WITH 11 DIGITS expectation: fail with 11 digits -- shouldn't accept 57153561269
+
+
+MAKE SURE EVERY DIGIT COMES AS A NUMBER
+1 NEG TEST WITH NO DIGITS EXP: with null value shouldn't accept
+2 NEG TEST WITH ONE LETTER+SYMBOL+DIGITS EXP: with letter+symbol+digt shouldn't accept I@57153561
+
+3 NEG TEST WITH ONE LETTER+9 DIGITS EXP: with letter it shouldn't accept 571535612I
+4 NEG TEST WITH ONE symbol+9 DIGITS EXP: with symbol it shouldn't accept 571535612|
+
+( no.3 and no.4 are duplicate of no.2)
+------------------------------------
+NEG TEST WITH 11 digit with ONE LETTER+SYMBOL EXP: with letter+symbol+digt shouldn't accept @/*$&:)#DDX
+===============================================================================================================================
+
+# Equivalence class partitioning Technique ( Range based testing-- requirements)
+1. divide your BVA test conditions into two partitions
+2. Based on test objective select only one set of data from each partition.
+3. One partition is one test
+(example: partition equal to positive & partition equal to negative)
+
+# Phone number is 10 digits.( digits are 0 to 9) FROM THE POINT OF VIEW OF ONLY 2 SIDE: POS & NEG
+-------------------------------------------------------------------------------------------------------
+--------------------------------------
+POSITIVE CLASS PARTITION
+--------------------------------------
+TEST WITH 10 DIGITS expectation: pass with 10 digits -- should accept 5715356126
+
+-------------------------------------
+NEG CLASS PARTITION
+-------------------------------------
+TEST WITH 9 DIGITS expectation: fail with 9 digits --- shouldn't accept 715356126
+NEG TEST WITH 11 DIGITS expectation: fail with 11 digits -- shouldn't accept 57153561269
+NEG TEST WITH NO DIGITS EXP: with null value shouldn't accept
+NEG TEST WITH ONE LETTER+SYMBOL+DIGITS EXP: with letter+symbol+digt shouldn't accept I@57153561
+------------------------------------
+NEG TEST WITH 11 digit with ONE LETTER+SYMBOL EXP: with letter+symbol+digt shouldn't accept @/*$&:)#DDX
+
+
+Rules for Creating Equivalence Classes:
+-----------------------------------------
+The following guidelines are applied to assist in defining equivalence classes:
+
+if an input condition specifies a range, one valid and two invalid equivalence classes are defined:
+within the range is valid, too large or too small are invalid.
+Example:
+Age is a number from 1 - 99.
+Valid equivalence class: [1 - 99]
+Invalid equivalence class: [less than one]
+Invalid equivalence class: [greater than 99]
+
+if an input condition requires a member of an enumerated set where all values are treated the same,
+one valid class for values in the set and one invalid equivalence class are defined.
+Example: San Luis Obispo = {SLO, San Luis, Slo Town}
+Valid equivalence class: [SLO, San Luis, Slo Town]
+Invalid equivalence class: [Pismo]
+
+if an input condition requires a member of an enumerated set where each is treated differently, one
+valid class for each value in the set and one invalid equivalence class are defined.
+Example: Vehicle = {car, truck, motorcycle}
+Valid equivalence class: [car]
+Valid equivalence class: [truck]
+Valid equivalence class: [motorcycle]
+Invalid equivalence class: [skateboard]
+
+if an input condition is boolean, two valid classes are defined.
+Example: overnight shipping requested
+Valid equivalence class: [yes]
+Valid equivalence class: [no]
+
+
+# Decision Table analysis Technique ( multiple input based requirements)
+1. Apply this technique when multiple input can change the output decision
+2. Make sure all the inputs and possible combination are correctly accounted for
+3. Each combination is a test
+Example:
+When the business logic is complext and output varies based on input
+example: loan affordability calculation
+
+in geico quote attempt, we found they said only 14 thru 110 years they offer quotes.
+
+age:14 thru 25
+income:
+type of car:
+length of driving:
+record of driving:
+address:
+credit report:
+
+Quote: your yearly quote for payment is : 1200 dollars
+
+age: 26 thru 45
+income:
+type of car:
+length of driving:
+record of driving:
+address:
+credit report:
+
+Quote: your yearly quote for payment is : 1200 dollars
+
+
+age: 46-65
+income:
+type of car:
+length of driving:
+record of driving:
+address:
+credit report:
+
+Quote: your yearly quote for payment is : 1200 dollars
+
+age: 66-85
+income:
+type of car:
+length of driving:
+record of driving:
+address:
+credit report:
+
+Quote: your yearly quote for payment is : 1200 dollars
+
+age: 86-114
+income:
+type of car:
+length of driving:
+record of driving:
+address:
+credit report:
+
+Quote: your yearly quote for payment is : 1200 dollars
+
+# State Transition analysis Technique ( multiple transition based requirements)
+1. Initial state + Transistions in multiple layers + final State
+2. aplly this technique where you see test objectives travel to multiple transitions when input is given
+3.Make sure everytime it goes to that finite state/ fiinal state with same kind of input.
+4. Example: login to your bank account steps:
+
+Login example to your bank account:
+-----------------------------------
+walmart shopping:
+------------------
+curbside buy
+home deliver buy
+in store buy
+
+Start buying end in paying
+bringing food home has mulitple alternatives (transitions)
+curbside buy state no.1
+home delivery buy state no.2
+in store buy state no.3
+
+Example:
+state conditions are finit, and transitions are varied.
+
+
+# Static Testing Technique ( static way of testing)
+1. For static testing you do not need application up and running
+2. This is done at the early phase of testing cycle.
+3. Also called early testing
+4. If the team is invloved in early testing, you will see review meetings are happening
+5. Inspection: checklist based formal review meeting conducted by moderator
+6. Walkthrough: Lead by the author, explained the code/ product/ requirements. Scribe is assigned. You can ask questions if needed
+
+
+
+
+

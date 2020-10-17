@@ -1,0 +1,376 @@
+Freedom Scientific Certification Exam in Progress
+JAWS 2020 Certification Exam
+Select the appropriate response (or responses) for each question below.
+Your test is timed, and the time will NOT pause if you leave the test.
+
+1. What keystroke allows JAWS to read the system date? (Resource: JAWS Help)
+ a. JAWS Key+TAB
+ b. JAWS Key+F12
+ c. CTRL+INSERT+V
+ d. JAWS Key+F12 pressed twice quickly
+2. What does the Accessibility Web Page link on the Training Headquarters contain? Check all that apply. (Resource: Web Resources)
+ a. References to Section 508 and other accessibility Web authoring and guideline related Web sites.
+ b. An explanation of accessibility vs. usability.
+ c. Tips for writing better HTML or other documents.
+ d. Lessons on creating accessible forms.
+3. The primary method to install JAWS is to download it from the Freedom Scientific website. (Resource: JAWS Help)
+ a. True
+ b. False
+4. On the controller side during a JAWS Tandem session, The shortcut key combination INSERT+CTRL+SHIFT+V can be used to toggle video on or off. (Resource: JAWS Help)
+ a. True
+ b. False
+5. Check the browsers that JAWS has the best support for below. (Resource: JAWS Help)
+ a. Safari
+ b. Firefox
+ c. Chrome
+ d. Edge Chromium
+ e. Internet Explorer
+6. Where can you find a free collection of electronic bulletins like Frequently Asked Questions (FAQ’s) or Technical Support Notices (TSN’s) for all of Freedom Scientific's products? (Resource: Web Resources)
+ a. JAWS Quick Start Guide
+ b. Freedom Scientific’s Power Information Look Up
+ c. ZoomText Quick Start Guide
+ d. Freedom Scientific's Knowledge Base
+7. The best way to find out whether your professional board accepts Freedom Scientific Continuing Education Unit (CEU’s) is to check with the board directly. (Resource: Web Resources)
+ a. True
+ b. False
+8. What keystroke in the Desktop keyboard layout will carry out the Say Current Word command? (Resource: JAWS Help)
+ a. JAWS Key+NUM PAD SLASH
+ b. JAWS Key+UP ARROW
+ c. JAWS Key+CTRL+UP ARROW
+ d. JAWS Key+NUM PAD 5
+9. The JAWS Startup Wizard lets a user configure the Smart Navigation features to, "Controls and Tables", to more efficiently navigate within HTML content. (Resource: What's New)
+ a. True
+ b. False
+10. In the JAWS Settings Center, if you want to view the search result in context of where it is in the tree view, what keystroke opens the tree view to reveal its location in the tree? (Resource: JAWS Basic Training)
+ a. ESCAPE
+ b. SPACEBAR
+ c. F6
+ d. ENTER
+11. When the JAWS verbosity setting is set to beginner JAWS speaks a limited amount of information. (Resource: JAWS Help)
+ a. True
+ b. False
+12. What Document Presentation mode are you in if JAWS reads each cell of a table on a Web page displayed on a separate line? (Resource: Web Resources)
+ a. Screen Layout mode
+ b. Simple Layout mode
+ c. Table Layout mode
+ d. Documentation Presentation Layout mode
+13. What is the keystroke to start the Dictionary Manager? (Resource: JAWS Help)
+ a. JAWS Key+F2
+ b. JAWS Key+D
+ c. JAWS Key+7 on the Number Row
+ d. JAWS Key+PAGE DOWN
+14. You have wireless speakers and notice that speech gets cut off when JAWS first starts talking. What can you do? (Resource: What's New)
+ a. Turn your speakers off and back on
+ b. Open Settings Center and select the Avoid speech cut off when using Bluetooth headphones or some sound cards check box
+ c. Switch to Speech On Demand
+ d. Replace your sound device
+15. What is the keystroke in the Desktop keyboard layout that will pronounce a character phonetically? (Resource: JAWS Help)
+ a. Right Arrow
+ b. JAWS Key+Right Arrow
+ c. JAWS Key+NUM PAD 5
+ d. NUM PAD 5 pressed twice quickly
+16. Which of the following does the Flexible Web feature in JAWS allow you to do when navigating websites? Check all that apply. (Resource: JAWS Help)
+ a. Have JAWS start reading from a certain element on a web page when the page first loads.
+ b. Hide disruptive elements such as advertisement or social networking frames from JAWS
+ c. Automatically fill out form information every time you visit a particular web page
+ d. None of the above
+17. The text in both the Braille and Text Viewers window can be stylized to make it easier to read. Check all the ways you can change the way the text looks. (Resource: JAWS Help)
+ a. Spacing between characters and words
+ b. Font
+ c. Font Size
+ d. Font Style
+ e. Text and background color
+ f. Highlighted text color
+18. Which cursor is activated and used to read the screen when Convenient OCR starts? (Resource: JAWS Help)
+ a. JAWS cursor
+ b. PC cursor
+ c. Invisible cursor
+ d. Virtual cursor
+19. For a JAWS Tandem connection to be successful, the controller and target computers must be running the same speech synthesizer prior to connecting. (Resource: JAWS Help)
+ a. True
+ b. False
+20. What methods are available to activate your copy of JAWS? Check all that apply. (Resource: JAWS Help)
+ a. Over the Internet using the Internet License Manager (ILM) procedure
+ b. By telephone with Freedom Scientific
+ c. By filling out the postcard that comes with the product and sending it to Freedom Scientific
+ d. None of the above
+21. Surf’s Up offers tips and tricks for using JAWS or Fusion on the Web. (Resource: Web Resources)
+ a. True
+ b. False
+22. In the JAWS Settings Center dialog, what keystroke allows you to move between the tree view and the configuration display pane? (Resource: JAWS Help)
+ a. INSERT+TAB
+ b. INSERT+F8
+ c. F6
+ d. INSERT+T
+23. Which of the following is the keystroke for typing echo toggle? This is a temporary setting that changes back to the original setting when focus moves to a different program. (Resource: JAWS Help)
+ a. JAWS Key+T
+ b. JAWS Key+D
+ c. JAWS Key+2 on the numbers row
+ d. JAWS Key+S
+24. In the Skim Reading dialog there is an option that allows you to create an advanced search text rule. What is the correct syntax for a search that would find text units that contain either the word "JAWS" or the word "ZoomText?" (Resource: JAWS Help)
+ a. JAWS space vertical bar space ZoomText
+ b. JAWS either slash or ZoomText
+ c. JAWS period star ZoomText
+ d. JAWS vertical bar ZoomText (no spaces)
+25. You can navigate to the JAWS Headquarters Web page by opening the Help menu in the JAWS program window and then selecting the Web Resources menu item. (Resource: Web Resources)
+ a. True
+ b. False
+26. In JAWS Settings Center what type of Window controls can be toggled from the tree view with spacebar? Check all that apply. (Resource: JAWS Help)
+ a. Check boxes
+ b. Radio buttons
+ c. Buttons
+ d. Edit boxes
+ e. Edit combo boxes
+27. The Braille and Text Viewers are found in which location? (Resource: JAWS Help)
+ a. Utilities menu
+ b. Options menu
+ c. Windows Desktop
+ d. Language menu
+28. The new Enhanced Convenient OCR feature introduced in JAWS 16 allows you to recognize entire PDF documents that may only be scanned images of text. (Resource: What's New in JAWS Web page)
+ a. True
+ b. False
+29. In the JAWS Settings Center, you can turn on or off the option to use the Virtual Ribbon Menu feature for Microsoft Office and other applications where ribbons are used. (Resource: JAWS Help)
+ a. True
+ b. False
+30. Which of the following keystrokes can be used to display the information currently on the Windows clipboard in the Results Viewer? (Resource: JAWS Help)
+ a. CTRL+SHIFT+C
+ b. INSERT+SPACEBAR, V
+ c. INSERT+SPACEBAR, C
+ d. None of the above
+31. What is the purpose of the JAWS Startup Wizard? (Resource: JAWS Help)
+ a. It makes sure that JAWS has been installed properly and starts correctly.
+ b. It allows you to set some basic JAWS settings. Some of those options include: speech parameters, keyboard layout and whether JAWS starts as a service when you turn on your computer.
+ c. It allows you to decide which users are authorized to run JAWS on that particular computer.
+ d. It allows you to install braille devices and additional speech synthesizers.
+32. What keyboard command allows you to move to the Search edit box in the JAWS Settings Center dialog? (Resource: JAWS Help)
+ a. CTRL+SHIFT+D
+ b. INSERT+E
+ c. CTRL+E
+ d. CTRL+INSERT+D
+33. JAWS 18 and later supports version 2.2 of the Vocalizer Expressive voice synthesizers. Which of the following new voices are available for British or US English? (Check all that apply.) (Resource: What's New)
+ a. Susan
+ b. Nathan
+ c. Doctor Dennis
+ d. Oliver
+ e. Perfect Paul
+34. In an HTML document you want to gather all the Headings on the page into a list box. What is that keyboard command? (Resource: Web Resources)
+ a. INSERT+F6
+ b. INSERT+F7
+ c. INSERT+F8
+ d. INSERT+F9
+35. What is the keystroke to turn on Keyboard Help mode in either the Laptop or Desktop keyboard layout? (Resource: JAWS Help)
+ a. JAWS Key+F1
+ b. JAWS Key+TAB
+ c. JAWS Key+1 on the Number Row
+ d. JAWS Key+3 on the Number Row
+36. When you open the JAWS Settings Center the settings for the application that has focus appear. (Resource: JAWS Help)
+ a. True
+ b. False
+37. You are testing your JAWS scripts and you want to confirm what is being sent to the braille display but the display is not attached. What can you do so you can continue testing? (Resource: JAWS Help)
+ a. Call a Technical Support Specialist
+ b. Send the scripts to someone who has a braille display
+ c. Launch the Braille Viewer
+ d. Launch JAWS Tandem
+38. JAWS allows you to have both individual user files as well as shared versions of configuration files. (Resource: JAWS Help)
+ a. True
+ b. False
+39. You are creating a summary for a specific text rule and want to have that information collected to review in the Virtual Viewer in complete sentences. Which option do you choose from the Speak Unit combo box in the Skim Reading dialog? (Resource: JAWS Help)
+ a. Lines Containing Text Rule
+ b. Sentences Containing Text Rule
+ c. Paragraphs Containing Text Rule
+ d. None of the above
+40. When the JAWS feature Keyboard Lock is toggled on you can still run JAWS reading commands like Say Line, Say Window Title, and Say Word. (Resource: JAWS Help)
+ a. True
+ b. False
+41. You are reading a table on a Web page in Simple Layout mode, and you want to read the current column. What is the keyboard command? (Resource: Web Resources)
+ a. WINDOWS KEY+NUM PAD 5
+ b. CTRL+ALT+NUM PAD 5
+ c. WINDOWS KEY+ALT+PERIOD
+ d. INSERT+SHIFT+PAGE DOWN
+42. What keystroke in the Laptop keyboard layout will carry out the Say Next Character command? (Resource: JAWS Help)
+ a. CAPS LOCK+M
+ b. CAPS LOCK+PERIOD
+ c. CAPS LOCK+J
+ d. CAPS LOCK+COMMA
+43. JAWS 2018 introduces support for Edge, the latest web browser from Microsoft included in Windows 10. (Resource: What’s New)
+ a. True
+ b. False
+44. When you encounter a program window that contains a graphical representation of text (such as a PDF which is a scanned image) and JAWS cannot read it, which of the following tools might you use? (Resource: Web Resources)
+ a. JAWS Startup Wizard
+ b. Convenient OCR
+ c. Dictionary Manager
+ d. Quick Settings
+45. You are in Internet Explorer reviewing the contents of your online shopping cart and you want to review an edit box that contains the quantity of the items you are purchasing. You want to quickly navigate to that edit box to verify the information. What keyboard command gathers all the edit boxes on the page into a list box so that you can choose the one you want? (Resource: JAWS Help)
+ a. INSERT+CTRL+HOME
+ b. INSERT+CTRL+END
+ c. INSERT+F7
+ d. INSERT+CTRL+E
+46. After pressing ALT+TAB to move to the JAWS window, what keyboard command speaks your JAWS version number? (Resource: JAWS Help)
+ a. NUMPAD 5
+ b. INSERT+Q
+ c. INSERT+UP ARROW
+ d. INSERT+PGDN
+47. When working with applications using the Virtual Cursor, the command to quickly toggle Smart Navigation on or off is: (Resource: What's New)
+ a. INSERT+T
+ b. INSERT+ PAGE DOWN
+ c. INSERT+W
+ d. INSERT+X
+48. What JAWS Help keystroke provides JAWS specific help for applications supported by JAWS? (Resource: JAWS Help)
+ a. INSERT+F1 pressed twice quickly while in a given application
+ b. INSERT+TAB
+ c. INSERT+F1
+ d. F1
+49. When you create a customization using the Flexible Web feature in a particular Web browser, that customization is only available in the browser you created it in. To use it in a different browser you will need to recreate it in the new browser. (Resource: JAWS Help)
+ a. True
+ b. False
+50. When reading PDF documents with the Virtual cursor you can use the same keystrokes you use on Web pages with JAWS. (Resource: JAWS Help)
+ a. True
+ b. False
+51. What is JAWS Tandem™? (Resource: JAWS Tandem Quick Start Guide)
+ a. The term that refers to the simultaneous use of JAWS and ZoomText.
+ b. A JAWS add-on that improves speech access with the Citrix remote access program.
+ c. A JAWS feature which allows one JAWS user to control another JAWS-enabled computer remotely.
+ d. A JAWS tool that synchronizes scripts that you have written.
+52. What keystroke in the Desktop keyboard layout will carry out the Say Line at the active cursor command? (Resource: JAWS Help)
+ a. JAWS Key+NUM PAD SLASH
+ b. JAWS Key+UP ARROW
+ c. JAWS Key+CTRL+UP ARROW
+ d. JAWS Key+NUM PAD 5
+53. Should I remove my existing version of JAWS before installing new versions of JAWS? (Resource: What's New in JAWS Web page)
+ a. Yes, this is a necessity.
+ b. No, many people choose to keep multiple versions of JAWS on their systems.
+54. The layered command INSERT+SPACEBAR, followed by X toggles Text Analyzer on or off. (Resource: JAWS Help)
+ a. True
+ b. False
+55. A Tandem Direct session is used for enterprise networks in a business when two JAWS users are connected to the same network. (Resource: JAWS Help)
+ a. True
+ b. False
+56. Which keystroke can be used to quickly help a customer land in the edit control where they must type in the code to allow access to their computer when starting a JAWS Tandem session? (Resource: JAWS Help)
+ a. INSERT+T
+ b. INSERT+PGDN
+ c. ALT+DEL
+ d. INSERT+ALT+T
+57. Which archived introductory webinar explores the benefits of using magnification and speech together to access the computer. (Resource: Web resources)
+ a. Getting to Know JAWS
+ b. FS Reader 3 with JAWS
+ c. Getting to Know Fusion
+ d. Speech History with JAWS
+58. You want to make a dictionary rule for JAWS to pronounce your last name correctly in ALL applications. What is the correct JAWS dictionary file to make this global change? (Resource: JAWS Basic Training)
+ a. WINWORD.JDF
+ b. NOTEPAD.JDF
+ c. JAWS.JDF
+ d. DEFAULT.JDF
+59. What is the most efficient way to get to a specific line in a HTML document? (Resource: JAWS Help)
+ a. Use the PAGE DOWN or PAGE UP keys to get close to the line you want, followed by the UP ARROW and DOWN ARROW keys to get to the exact location.
+ b. Use the TAB or SHIFT+TAB keys to get close to the line you want, followed by the UP ARROW and DOWN ARROW keys to get to the exact location.
+ c. Press the letter J to activate the Jump To Line feature, and then type in the line number you want, and press ENTER.
+ d. Press JAWS KEY+DOWN ARROW to start continuous reading until you get to the line you want.
+60. Freedom Scientific allows you to provide feedback or comments on your experience using individual electronic bulletins from their Knowledge Base. (Resource: Web Resources)
+ a. True
+ b. False
+61. You are a registered user and you are experiencing a technical issue and would like some help to solve it. What can you do? Check all that apply. (Resource: JAWS Help)
+ a. Research Freedom Scientific’s Knowledge Base for Technical Support Notices published on your issue.
+ b. Send an email to a Technical Support Specialist at Support@FreedomScientific.com.
+ c. Call a Technical Support Specialist during operating hours.
+ d. None of the above
+62. Check all keys that can be set by the user to be the JAWS Key: (Resource: JAWS Help)
+ a. NUM PAD 5
+ b. CAPS LOCK
+ c. SCROLL LOCK
+ d. ESCAPE
+ e. INSERT
+63. The JAWS Training materials, accessed from the Help Menu, consists of how many Basic Training books? (Resource: Web Resources)
+ a. 3
+ b. 7
+ c. 9
+ d. 12
+64. If I purchase a JAWS 17 license, can I use that license to run JAWS 16 installed on an older computer while I use JAWS 17 or later on my newer computer? (Resource: JAWS Help)
+ a. Yes
+ b. No
+65. You just received a brand new braille display and you already have JAWS installed. You want to add the braille support for your new display. How would you add braille support after JAWS is installed? (Resource: JAWS Help)
+ a. Completely uninstall JAWS and then reinstall JAWS and this time select your braille display.
+ b. Open the JAWS window, press ALT+O, L to open the Braille Basic Settings dialog. Tab to the Add Braille Display Button and press SPACEBAR. Make your selections in the following Select Components dialogs to add your braille support.
+ c. Open the JAWS Script manager and add your braille display there.
+ d. Visit www.FreedomScientific.com for a special Focus installer. Download the installer and follow the step-by-step instructions.
+66. What is the name of the live training offered by the Freedom Scientific Training Team where instructors guide users step-by-step through completing various tasks? (Resource: Training Web pages)
+ a. FS Skill Building and Review
+ b. FS Open Line
+ c. Surf's Up
+ d. JAWS Basic Training
+67. What JAWS Manager is a direct replacement for the Configuration Manager found in JAWS versions prior to JAWS 12? (Resource: JAWS Help)
+ a. Script Packager
+ b. Settings Center
+ c. Dictionary Manager
+ d. Script Manager
+68. A third party support person can call a Technical Support Specialist on behalf of a registered user and receive technical support when they provide verifiable information on the registered user. (Resource: JAWS Help)
+ a. True
+ b. False
+69. In which of the following places might one find Last Changed Settings in a tree view? Check all that apply. (Resource: JAWS Basic Training)
+ a. Script manager
+ b. Settings Center
+ c. Quick Settings
+ d. Custom Label
+70. When you create a customization with the Flexible Web feature, that customization can be applied globally to all websites you visit. (Resource: JAWS Help)
+ a. True
+ b. False
+71. You can have a sound played when you enter Forms Mode in an HTML document and a different sound played when you exit Forms Mode. (Resource: Web Resources)
+ a. True
+ b. False
+72. The keyboard command for JAWS Screen Sensitive Help is: (Resource: JAWS Help)
+ a. INSERT+H
+ b. INSERT+Q
+ c. CTRL+O
+ d. INSERT+F1
+73. A voice profile is made up of several elements. What are they? Check all that apply. (Resource: JAWS Help)
+ a. A synthesizer
+ b. A voice
+ c. A variety of speech parameters, like volume, rate and punctuation
+ d. None of the above
+74. The JAWS install automatically detects whether you are installing on a 32-bit or 64-bit computer, and then downloads only the needed setup files at the time of install. (Resource: JAWS Help)
+ a. True
+ b. False
+75. By default, what cursor does JAWS use to read PDF documents? (Resource: JAWS Help)
+ a. JAWS cursor
+ b. PC cursor
+ c. Virtual cursor
+ d. Invisible cursor
+76. As a result of the JAWS BrailleIn feature, users with devices that have Perkins-style braille keyboards can have complete control of their PCs for Navigation, review, and input. (Resource: JAWS Help)
+ a. True
+ b. False
+77. What is the keystroke to get Context Sensitive Help for the current item or control? (Resource: JAWS Help)
+ a. JAWS Key+F1
+ b. JAWS Key+TAB
+ c. JAWS Key+1 on the Number Row
+ d. JAWS Key+3 on the Number Row
+78. Where would you go to configure settings for Speech On Demand such as muting JAWS sounds or choosing whether or not JAWS speaks as you type or move the mouse? (Resource: JAWS Help)
+ a. From the JAWS window, select Options > Voices > Voice Adjustment.
+ b. Open Quick Settings and expand the General group.
+ c. Open Settings Center and expand the Speech Verbosity group.
+ d. Open Settings Center and expand the Speech Options group.
+79. The Braille Viewer window displays exactly what is being sent to the cells of a braille device in text form, as well as the actual braille dot patterns. (Resource: JAWS Help)
+ a. True
+ b. False
+80. You want to change a speech setting but you are unsure of the exact setting name. If you type the word "speech" in the Search edit box in the JAWS Settings Center what results can you expect to find? (Resource: JAWS Help)
+ a. Only settings that end with the letter s.
+ b. Only settings that contain the word speech.
+ c. All settings that contain the word JAWS.
+ d. All settings that contain the word ZoomText.
+81. As you move through the tree view in the JAWS Setting Center, a sighted person or low vision user can simultaneously track cursor movement in the configuration display pane. (Resource: JAWS Help)
+ a. True
+ b. False
+82. Beginning with JAWS 2018 you can choose a Virtual Cursor verbosity level to be active for a specific website. (Resource: What's New)
+ a. True
+ b. False
+83. One of the benefits to running JAWS from the System Tray is that JAWS is not in the ALT+TAB task switching window when you cycle between running programs. (Resource: JAWS Help)
+ a. True
+ b. False
+84. What can I do if JAWS Convenient OCR isn't giving clear recognition results or runs text together? Check all that apply. (Resource: Web Resources)
+ a. Maximize the application window
+ b. Increase the document zoom level
+ c. Minimize the application window
+ d. Adjust the computer screen resolution higher
+85. What is JAWS Headquarters? (Resource: Web Resources)
+ a. Freedom Scientific's corporate offices in St. Petersburg.
+ b. A special Freedom Scientific Web page where you can get valuable information about JAWS resources.
+ c. Freedom Scientific's off-site training facility in Florida.
+ d. None of the above

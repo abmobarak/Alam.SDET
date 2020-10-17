@@ -1,0 +1,13 @@
+What is API
+-------------------------
+Answers: API is a business logic.API is a mediator of communication two application.Its a set of code written by developer.
+
+What is API testing
+---------------------------------------------
+Testing the business logic of any application is called as  API testing.
+
+Different tools of API testing
+-----------------------------------------
+SOAPUI
+POSTMAN
+

@@ -1,0 +1,215 @@
+USER ACCOUNT REGISTRATION STATE OF PENNSYLVANIA
+--------------------------------------------------------------------------------------------
+Homepage(positive)
+---------------
+Verify Healthcare.gave page is open for chrome browsr
+1.Verify that in home page of Healthcare.gov ,create account is available or not
+2.Verify create account is clickable or not
+
+
+ State selection(POSITIVE)
+--------------------------
+3.Verify "select your state" drop down list is available and active
+4.Verify "PA"is available in dropdown list
+5.Verify "PA" is selectable
+6.Verify after sucessfully selecting state all necessary fields (including
+FIRST NAME, LAST NAME etc) are appeared.
+
+State selection(Negative)
+-----------------------------
+7..Verify without selecting state ,registration form is appeared or not
+8.Verify some state(california,colorado,connecticut,idaho etc) ask to visit their state official health website for their residence.
+
+FIRST NAME(positive)
+---------------
+9.Verify "FIRST NAME" field is active
+10.Verify "First Name" takes  letter
+11. Verify "First Name" takes upper case as well as lower case
+12. Verify "First Name" takes combination of upper and lower case
+13.Verify "First Name" takes upto 20 letters
+14.Verify "First Name" takes minimum 1 character
+
+FIRST NAME(negative)
+--------------------
+15.Verify with no character
+16.Verify with number and special character
+17.Verify with letter and number
+18.Verify with letter and spicial
+19.Verify with 21 character
+
+
+LAST NAME(positive)
+---------------
+20. Verify "LAST NAME" field is active and available
+21.Verify "LAST NAME" takes only letter
+22. Verify "LAST NAME" takes upper case as well as lower case
+23. Verify "LAST NAME" takes combination of upper and lower case
+24.Verify "LAST NAME" takes upto 25 letters
+25.Verify with 26 letters
+26.Verify "LAST NAME" takes minimum 1 character
+
+LAST NAME(NEGATIVE)
+---------------------
+27.Verify with no character
+28.Verify with number
+29.Verify with number and special character
+30.Verify with letter and number
+31.Verify with letter and special character
+
+USERNAME(positive)
+-------------------
+32.Verify USERNAME field is active and available
+33.Verify USERNAME field takes only valid email
+34.Verify USERNAME field is not case sensative
+35.Verify USERNAME field is good for all types of valid email adress like yahoo,gmail etc
+
+Negative
+----------
+36.Verify with invalid email or name
+
+PASSWORD(positive)
+-----------
+37.Verify password fied is active and available
+38.Verify PASSWORD within 8 to 10 characters
+39.Verify password is mixed of upper case, lower case and number
+Verify for valid password always get grren check signs
+
+Negative
+------------
+40.Verify password for minimum 7 and maximum 11
+41.Verify pasword for only letter
+42.Verify password for only number
+43.Verify password for letter and number
+Verify for invalid password always get red cross signs
+
+RETYPE PASSWORD(positive)
+----------------
+44.Verify retype password field is active and available
+45.Verify retype password field is valid for 'correct password'
+
+negative
+---------
+46.Verify retype password field for incorrect password
+
+
+PICK A QUESTONS(1st)positive
+----------------------------
+47. Verify PIC A QUESTIONS dropdown list is active and available
+48.Verify i can choose any questions randomly
+
+TYPE AN ANSWERS(1st) positive
+----------------------------
+49.Verify Type an answers field is active and available
+50.Verify it takes characters within 8 to 30
+51.Verify it can takes combination of letter,number and special characters( spaces, apostrophes ('), hyphens (-), and periods)
+52.Verify it can takes only letter(upper or lower)
+53.Verify it can takes only number
+54.Verify it can takes combinations of letter and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+55.Verify it can takes combinations of number and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+Verify it can take decimal number greater  than 1
+
+Negative
+--------------
+56.Verify with number /special character(outside mentioned)
+57.Verify with minimum 7 and maximum 31 characters
+58.Verify with letter/special character(outside mentioned)
+59.Verify with letter/number/Special character (outside mentioned)
+Verify it can't take decimal number less than 1
+
+PICK A QUESTONS(2nd)positive
+-----------------------
+60. Verify PIC A QUESTIONS dropdown list is active and available
+61.Verify i can choose any questions randomly
+62.Verify the previously choosen questions is not available here
+
+
+
+TYPE AN ANSWERS(2nd)positive
+-----------------------
+63.Verify Type an answers field is active and available
+64 .Verify it takes characters within 8 to 30
+65.Verify it can takes combination of letter,number and special characters( spaces, apostrophes ('), hyphens (-), and periods)
+66.Verify it can takes only letter(upper and lower)
+67.Verify it can takes only number
+68.verify it can takes decimale number greater than 1
+69.Verify it can takes combinations of letter and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+70.Verify it can takes combinations of number and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+
+negative
+-----------
+71.Verify with number/special character(outside mentioned)
+72.Verify it can't take the same answers of previous questions.
+73.Verify with letter/number/special character(outside mentioned
+74.Verify for decimale number less than1
+75.Verify with letter /special character(outside mentioned)
+Verify with minimum 7 amd maximum 31 characters
+
+PICK A QUESTONS(3rd) Positive
+--------------------
+76. Verify PIC A QUESTIONS dropdown list is active and available
+77.Verify i can choose any questions randomly
+78.Verify the previously choosen tewo questions is not available here
+
+TYPE AN ANSWERS(3rd) positive
+-------------------------------
+79.Verify Type an answers field is active and available
+80.Verify it takes characters within 8 to 30
+81.Verify it dont take no less than 8 or more than 8 characters
+82.Verify it can takes combination of letter,number and special characters( spaces, apostrophes ('), hyphens (-), and periods)
+83.Verify it can takes only letter
+84.Verify it can takes only number
+85.Verify it can takes combinations of letter and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+86.Verify it can takes combinations of number and special characters (spaces, apostrophes ('), hyphens (-), and periods)
+87.Verify it cant take the same answers of previous questions.
+Verify it can take decimal number greater than 1
+
+Negative
+------------
+88.Verify with number/special character(outside mentioned)
+89.Verify it can't take the same answers of previous questions.
+90.Verify with letter/number/special character(outside mentioned
+91.Verify for decimale number less than1
+92.Verify with letter /special character(outside mentioned)
+93.Veify red cross for invalid input
+
+
+Check box(positive)
+----------------
+94.Verify check box for terms and conditions is active and available
+95.Verify selected by default or not
+
+CREATE ACCOUNT(positive)
+-----------------
+96.Verify  at the buttom create account bar is active and available
+97.Verify after putting all valid credential and check terms condition / clicking create account , pop up new link "open your email"
+98.Verify clicking "open your email" send congratulations email from healtcare.gov in authorized eamil ID
+
+Negative
+-----------------------
+99. Verify pop link "open yor email " invalid input 
+100. Verify pop up link for blank input'
+101. Verify pop up link for uncheck terms and condition box
+
+SIGN IN
+---------------
+99.Verify  sign in button is visible and clickable in healthcare.gov home page
+100.Verify after click sign in it brings credential field
+101.Verify for valid credential 
+102.Verify for invalid credential
+103.Verify "sucessfully login"with logout button right side top corner of health care page
+
+SIGN OUT
+--------
+104.Verify sign out button is clickable
+105.Verify logout with message you are "sucessfully logged out"on health care page
+106.Verify different name can use same email ID
+
+
+
+
+
+
+
+
+
+ 

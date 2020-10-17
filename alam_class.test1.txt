@@ -1,0 +1,62 @@
+ABDULLAH
+What is black box testing?
+without knowing code whatever test we perform is called Black box testing
+
+What Are The Advantages Of Black Box Testing?
+dont need programming language
+developer and tester work independently
+test is performed user point of view
+
+
+What Is Agile Testing?
+
+Agile testing is software testing that follows the best practices of Agile development.
+Agile testing includes an incremental approach to testing. In this type of software testing, features are tested as they are developed.
+
+What are 3 important things of Agile testing?
+In Agile Development and Testing work continuously
+In Agile work chunk by chunk ,so its time consuming 
+Agile has different types of ceremonoy like sprint planning /daily scrum/Sprint retrospective ,so team can collaborate easily.
+
+What Is Difference Between Retesting And Regression Testing?
+After fixing defect whatever test we perform its retest
+When new functionality added in application, we have to make sure newly added functionality doesnt brake down existing functionality.
+In this situation whatever test we perform is called regression testing.
+
+What Is Data Flow Diagram?
+
+What Is Test Driver And Test Stub?
+
+What Is The Purpose Of Test Strategy?
+The purpose of a Test Strategy is to create an understanding of the overall targets, approach, tools and timing of test activities to be done. 
+
+
+Explain Bug Life Cycle.
+Based on the requirement when we found a defect the status is new
+When we assign it to develope ,if he/she accept it the status is open
+When developer working on it the status is inprogress
+when developer fixed it , the status pennding retest
+when tester retest it and found no isue  status closed,otherwise need to reopen.
+
+What Is Error Guessing
+In software testing, error guessing is a test method in which test cases used to find bugs in programs are established based on experience in prior testing.
+
+
+What Is Test Harness?
+
+Explain Statement Coverage.
+
+What Are The Types Of Testing?
+unit testing 
+integration testing 
+system testing
+UAT testing
+performance testing
+
+Explain User Acceptance Testing.
+Whatever test we perform before production is called UAT testing
+
+What Should Be Done After A Bug Is Found?
+Based on the requirement if we found a defect,we have to make sure its true defect.
+Then we have to assign it concern developer with proper documentation.
+What If The Software Is So Buggy It Can't Really Be Tested At All?
