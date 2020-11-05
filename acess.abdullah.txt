@@ -1,0 +1,114 @@
+Types of Disability
+-----------------------------------
+1. Visual impairment(vision)
+2.Hearing Impairment
+3.Congnitive Disability
+4.Lack of motor skills
+
+Main Things you have to check
+----------------------------------------------
+1.Re size text
+2.Good color contrast
+3.Minimum flash content
+4.proper alt text
+5. Complete coverage
+
+Tools used
+----------------------------------------
+1.Screen Readers
+Jaws
+NVDA
+Talkback
+Voice Over
+2.Screen Magnifiers
+Zoom Text
+3.Keyboard
+4.Color contrast Analyzer
+5. WAVE( automated tools)
+
+WCAG 2.0
+------------------------------
+3 LEVELS(A,AA,AAA)
+4 Principles
+12 Guidelines
+61 Success Criteria
+
+4 Principles(POUR)
+--------------------------------
+
+Percivable-------Able to perceive information through their senses or assitive technology
+Operable---------Able to interact with mouse or keyboard
+Understandable------Able to understand information and how to use interfaces
+Robust---------------Content can be accessed by old and new user agents and assitive technology
+
+Easy check of Web accessibility
+---------------------------------------------
+
+
+1.Page title
+----------------------
+Page titles are:
+------------------------
+
+shown in the window title bar in some browsers
+shown in browsers' tabs when there are multiple web pages open
+shown in search engine results
+used for browser bookmarks/favorites
+read by screen readers
+(In the web page markup they are the <title> within the <head>.)
+
+What to do:
+-------------------------
+Look at the page's title (or with a screen reader, listen to it).
+Look at titles of other pages within the website.
+
+What to check for
+-----------------------------:
+Check that there is a title that adequately and briefly describes the content of the page.
+Check that the title is different from other pages on the website, and adequately distinguishes the page from other web pages.
+
+2.Image text alternatives ("alt text")
+-------------------------------------------------------------
+Text alternatives ("alt text") convey the purpose of an image, including pictures, illustrations, charts, etc. Text alternatives are used by people who do not see the image. (For example, people who are blind and use screen readers can hear the alt text read out; and people who have turned off images to speed download or save bandwidth can see the alt text.)
+
+The text should be functional and provide an equivalent user experience, not necessarily describe the image. (For example, appropriate text alternative for a search button  would be "search", not "magnifying glass".)
+
+You don't usually see the alt text on a web page, it is in the web page markup (like this:
+<img src="pointer_to_image.png" alt="here's where the alternative text goes">).
+Every image should include alt in the markup.
+
+If an image conveys information useful for interacting with or understanding the web page content, then it needs alternative text.
+If an image is just decorative and people don't need to know about the image, then it should have null alt (alt="").
+Automated tests can tell you if alt is missing. To determine if the alternative text is appropriate, you need to see the image and judge it in context.
+
+What to check for:
+-------------------------------------
+Every image has alt with appropriate alternative text.
+------------------------------------------------
+
+The text needs to convey the same meaning as the image. That is, if someone cannot see the image, they get the important information from the image in the alternative text.
+Alternative text depends on context. For example, for an image of a dog on a kennel club website, the alt text might include the breed of the dog; however, the same image on a dog park website may be there just to make the page more attractive, and the image might not need any alt text (and should have null alt). One way to help think about appropriate alt text is: if you were helping someone read and interact with the web page and they cannot see it, what would you say about the image?
+Images that are functional — for example, images that initiate actions (like submit buttons) and linked images (like in navigation) — need alt text that is the functional equivalent.
+If there is text in the image — for example, in a logo — that text needs to be included in the alt text.
+If the image has complex information — such as charts or graphs — the image should have a short alt text to identify the image, and then the detailed description of the information should be provided elsewhere (for example, in a data table).
+What is not needed in the alt text:
+alt attribute in HTML (not "alt tag")
+
+Alt text checks
+-------------------------------
+There are three options to check alt text listed below. The first one is the easiest, if you have the IE WAT toolbar. If you don't have any toolbars, there is a check at the end for any browser.
+
+To check alt text with IE WAT
+---------------------------------------------
+Open the web page you are checking.
+In the toolbar, select "Images", then "Show Images". Or, with the keyboard: Ctrl/cmd+Alt+4, then arrow down to "Show Images"
+
+To check alt text with any browser
+------------------------------------------------------
+Open WAVE web accessibility evaluation tool web page.
+Type the website address in the box after "Enter the URL of the web site you want to evaluate:"
+Click the "WAVE this page!" button.
+Your web page will show up in the browser with lots of little icons on it.
+To check for missing alt: Look for the red alt icon (Red Alt Missing WAVE Tool Icon), or search for the alt text "ERROR: Missing alt text". If you find it, that means the following image is missing alt.
+To check if alt text is appropriate:
+Look for the green alt icon (Green Alt Exists WAVE Tool Icon). Next to it is text on a light blue background; the alt text is in between the asterisks (*). See if that text adequately conveys the information in the image it is next to, per the Tips above.

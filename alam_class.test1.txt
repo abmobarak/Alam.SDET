@@ -1,4 +1,5 @@
 ABDULLAH
+------------------------------------------------------------------------------------
 What is black box testing?
 without knowing code whatever test we perform is called Black box testing
 

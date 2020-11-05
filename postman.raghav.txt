@@ -1,0 +1,7 @@
+POSTMAN BEGINNER TUTORIAL'S 7
+-------------------------------------
+How to set and get variables through scripts
+-------------------------------------------------
+Today we will learn how to set variables through scripts
+
+How to get variables through scripts

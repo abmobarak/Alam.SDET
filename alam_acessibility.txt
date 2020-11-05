@@ -1,0 +1,246 @@
+1. What is Accessibility testing or 508 testing?
+-----------------------------------------------------------------------------
+
+Section 508 of federeal govt. LAW(Rehabilitation Act) gives power to the disable people to use and utilize any Web application OR any software system in following way:
+a) it should be operated by the disable people in the way that a non disable people uses it.
+b) Special accomodation should be provided in the software so that disable people can use it without any extra assistance
+c) For any multi media software there has to be the exact transcripts.
+
+2. How to do Accessibility Testing?
+-----------------------------------------------------------------------------------------
+Accessibility Testing can be performed in 2 ways, and they are:
+Manual - there are number of tools :- for Windows, for Mac ( ............), for any mobile devices (iOS; andriod)
+Automated - wat (Web Accessibility Tool)
+
+3. Basic understanding of Accessibility testing:
+---------------------------------------------------------------------------------
+508 compliant Development code -- (these are extra code come with regular non 508 compliant codes)
+A) Who are the disable people? how many different types?
+1. Blind - vision impaired -- (Hearing assist)
+2. LIMB impaired - person who doesn't have hands (or fingers)
+X 3. Mentally ill ( he's not considered as disable: he's considered as a long term care patient)
+4. Hearing impaired --
+5. Legal Blind -- (vision impaired software system + magnifier system + Hearing assit)
+6. Paralyzed person -- viz, Stephen hawkins
+
+Following are the point's needs to be checked for application to be used by all users. This checklist is used for signing off accessibility testing.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NAVIGATION IN MENU ITEMS
+Whether shortcut keys are provided for menus?
+
+BROWSER COMPATIBILITY/ OS COMPABILITY
+Whether application supports all operating systems?
+
+RESPONSE/ PERFORMANCE ISSUES
+Whether response time of each screen or page is clearly mentioned so that End Users know how long to wait?
+
+LABELS, HEADER.. SUB-HEADER DESCRIPTION
+Whether all labels are written correctly in the application?
+
+COLOR COMBINATION
+Whether color of the application is flexible for all users?
+
+IMAGES
+Whether images or icons are used appropriately, so it's easily understood by the end users?
+
+MULTIMEDIA TRANSCRIPTIONS
+Whether an application has audio alerts
+
+SUPPORTING FOR MULTIMEDIA CONTROLLING
+Whether a user is able to adjust audio or video controls?
+
+PRINTING OPTIONS
+Whether a user can override default fonts for printing and text displays?
+
+FLASHING/ INTERACTION CONTROL
+Whether user can adjust or disable flashing, rotating or moving displays?
+
+COLOR COMBINATION RULE
+Check to ensure that color-coding is never used as the only means of conveying information or indicating an action
+
+INVERTED COLOR OPTION
+Whether highlighting is viewable with inverted colors? Testing of color in the application by changing the contrast ratio
+
+HEARING ASSISTANCE
+Whether audio and video related content are properly heard by the disability people ? Test all multimedia pages with no speakers in websites
+
+2nd class
+-----------------------------------
+Notes for 508
+--------------------
+Initial Testing process in 508
+--------------------------------------
+Rule No.1 ---> Keyboard flow controls
+Keyboard must have all functionalities
+
+Rule No.2 ----> Check the reader can read based on NRA (Name, Role and action)
+For every actionable elements, Assistive Reader must read based on NRA rules.
+
+Rule No.3 ----> For any image there must be a alternative text, that describes well about the image. Not too much OR too less descriptions
+
+Example of Twin Tower image from guardian newspaper
+"The twin towers of New York’s original World Trade Center under construction, as seen from Jersey City in 1970."
+
+Rule No.4 -----> Read the whole pag08 Test technique:
+---------------------
+8/20/2020
+Testing Techniques-1
+-----------------------
+
+WCAG 2.1 Guidelines:
+Web Content Accessibility Guidelines 2.1
+
+-----> *** Perceivable
+Text Alternatives
+Non-text contents
+Time-based Media
+Audio only and video only
+captions
+audio descriptions
+live captions
+Sign Language (live or recorded)
+
+Adaptable
+
+Distinguishable
+
+
+-----> *** Operable
+
+-----> *** Understandable
+
+-----> *** Robust
+
+
+
+1. Page Title: Found in <title> within <head>
+---> what to check for:
+Look at the page title / screen reader can read it ?
+
+a) Title describes well the content of the page?
+b) Look at all other page titles same way!
+c) Screen reader should say first thing name of the title when you move to a new page
+d) Check same thing with different browsers:
+
+
+2. Heading: Found as <h1> or <h2> or <h3> or <h4>
+---> What to check for:
+Heading level should have a meaningful serial/ hierarchy:
+
+a) Does the page has a heading? In almost all pages there should be at least one heading.
+b) All text that looks like a heading is marked up as a heading.
+c) All text that is marked up as a heading is really a conceptual section heading.
+d) The heading hierarchy is meaningful. Ideally the page starts with an "h1" — which is usually similar to the page title — and does
+
+not skip levels; however, these are not absolute requirements.
+--------------------------------------------------------------------------------------------------------------------------------------------
+3rd class8/20/2020
+-------------------------------------------------------------------------------
+
+Testing Techniques-1
+----------------------
+
+** NVDA IS INSTALLED AND STARTED PLAYING AROUND
+** DEFINITIONS
+** TARGET GROUPS
+** ACCESSIBILITY GUIDELINES
+===========================================================================================================================================
+WCAG 2.1 Guidelines: (Software & Web Applications)
+Web Content Accessibility Guidelines 2.1
+
+-----> *** Perceivable
+Information & user components must be presentable-precise-understood easily
+-----> *** Operable
+User interface component and it's navigation must be operable
+-----> *** Understandable
+Information and interface component must be understandable (user friendliness)
+-----> *** Robust
+Contents must be robust enough that it can be interpreted by users with OR without assistive Technologies.
+
+-------------------------------------------------
+Technique:
+-------------------------------------------------
+1. Page Title: Found in <title> within <head>
+---> what to check for:
+Look at the page title / can screen reader read it ?
+
+a) Does title describes well about the content of the page?
+b) Look at all other page titles same way!
+c) Screen reader should say first thing name of the title when you move to a new page
+d) Check same thing with different browsers:
+
+
+2. Heading: Found as <h1> or <h2> or <h3> or <h4>
+---> What to check for:
+Heading level should have a meaningful serial/ hierarchy: ( the biggest header font should be on the top; there can't by any mismatch among headers)
+Example: <h1> or <h2> or <h3> or <h4> <-----> there can't be a <h3> after <h4> and so on
+
+a) Does the page has a heading? In almost all pages there should be at least one heading.
+b) All text that looks like a heading is marked up as a heading.
+c) All text that is marked up as a heading is really a conceptual section heading.
+d) The heading hierarchy is meaningful. Ideally the page starts with an "h1" — which is usually similar to the page title — and does
+not skip levels; however, these are not absolute requirements.e thru Screen Reader/ Assistive Reader
+
+
+---------------------
+Header level: It's not mandatory that, you must have to have a [ h1, h2 .... h5 levels] in a web page; but make sure if you see some of them present
+in a webpage, the top level header must be the biggest one. There can't be a bigger header level in between 2 smaller header level.
+
+
+Practical Part - 2:
+--------------------
+
+1. Drop down/ Auto Drop down List items:
+a) Drop-down lists: Check that after you tab into a drop-down list, you can use the arrow keys to move through all the options without triggering an action.
+b) Trapping in drop down: Drop down lists are of 2 types, one needs focus to be trapped
+c) Other type of drop down doesn't need trapping.
+
+Common Defects ------
+--------------------------------------------------------
+ i. As soon as you arrow down, it automatically selects the first item
+in the list and goes to a new page � you cannot get to other items in the list.
+ii. Trapping not found when needs a trapping
+iii. Trapping found when not necessary
+iv. Esc button can't collapse the list if already expanded
+v. Auto drop down doesn't close automatically when you get out of the list.
+2. Image as Link:
+--------------------------------
+a) When image comes as link, make sure they have clear visual focus and can be activated using the keyboard (usually by pressing the Enter key).
+b) When activated the link, focus should sit on the first actionable item in the new page.
+
+3. Forms - Labels: Labels are found in form feed area:
+-----------------------------------------------------------------
+a) Check that every form control has a label associated with it using 'label'-'for', and an 'id'.
+(This is best practice in most cases, though not a requirement because a form control label can be associated in other ways.)
+b) Check that the labels are positioned correctly. For left-to-right languages, labels should usually be:
+Left of text boxes/ drop-down lists.
+
+4. Required (*) fields & other Instructions:
+-----------------------------------------------------------------------
+a) Check that any fields that are required/mandatory are clearly indicated.
+b) Check that the indicator does not rely on color alone
+c) Check that the indicator (such as asterisks (*)) is included in the marked up field label for text boxes and drop-down lists, or legend for
+radio buttons and checkboxes, as shown in the labels checks below.
+d) Check that any instructions for completing the form are before they are needed, for example,
+General instructions should usually be at the top of the form or the section they relate to.
+e) Check that required formats, such as dates (year-month-date in the format 0000-00-00), are included in the marked up label
+
+
+5. Error handling:
+--------------------------------------------------------
+a) Some simple forms, such as a single search field, might not have any errors. If you think the form(s) on the page you are checking might have error
+messages, try leaving required fields blank or entering incorrectly-formatted information (such as telephone number or e-mail address), then submitting
+the form. If you get errors:
+i) Check that clear and specific guidance is provided to help people understand and fix the error. If the error concerns a format such as date,
+time, or address, check that the correct format is clearly explained.
+ii) Check that the errors are easily findable. Generally it is best if the error messages are before the form, rather than after the form.
+iii) Check that the fields without errors are still populated with the data you entered. (This is best practice, though not a requirement.)
+People should not have to re-enter all the information in the form, except for some sensitive data such as credit card numbers.
+
+
+5. Pop-up window:
+-----------------------------------------------------------
+a) Check for any popup window, popup warning message that pops up automatically
+i. Make sure when these things appear in the application, focus automatically goes there.
+ii. Make sure you have a way to get rid of this pop ups
+iii. make sure it continues reading the actionable and non actionable plain texts as wellmohammed, 10:12 PMRefreshers:
